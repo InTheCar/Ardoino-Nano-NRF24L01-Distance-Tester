@@ -12,5 +12,6 @@ The echo will receive the counter value and sends it back to the transmitter.
 
 
 # The Hardware
+## NRF24L01
 ## YL-105
 For 
