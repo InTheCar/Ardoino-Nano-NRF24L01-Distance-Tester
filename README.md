@@ -1,6 +1,8 @@
 # Next steps
 -bibliothek https://github.com/nRF24/RF24 must be installed
+
 -Levelshifte for tracing must be tested
+
 -documentation
 # Ardoino-Nano-NRF24L01-Distance-Tester
 ## The principle
