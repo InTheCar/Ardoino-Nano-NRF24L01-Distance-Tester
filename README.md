@@ -12,6 +12,8 @@ The echo will receive the counter value and sends it back to the transmitter.
  The transmitter will receive the counter value which was sent before
  and increment the counter. The new counter value will be used for the next round.
 
+ ![principal.png](https://github.com/InTheCar/Ardoino-Nano-NRF24L01-Distance-Tester/blob/main/pics/principal.png)
+
 
 # The Hardware
 ## NRF24L01
