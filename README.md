@@ -14,6 +14,10 @@ The echo will receive the counter value and sends it back to the transmitter.
 
  ![principal.png](https://github.com/InTheCar/Ardoino-Nano-NRF24L01-Distance-Tester/blob/main/pics/principal.png)
 
+## The code
+![principal.png](https://github.com/InTheCar/Ardoino-Nano-NRF24L01-Distance-Tester/blob/main/Transmitter/Transmitter.ino)
+
+![principal.png](https://github.com/InTheCar/Ardoino-Nano-NRF24L01-Distance-Tester/blob/main/pics/principal.png)
 
 # The Hardware
 ## NRF24L01
